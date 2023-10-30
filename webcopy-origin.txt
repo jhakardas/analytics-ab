@@ -1,0 +1,118 @@
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/index.html
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\index.html
+Content Type: text/html
+
+
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/bel.png
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\bel.png
+Content Type: image/png
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/bg.png
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\bg.png
+Content Type: image/png
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/bx1.png
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\bx1.png
+Content Type: image/png
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/cs.png
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\cs.png
+Content Type: image/png
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/dm.png
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\dm.png
+Content Type: image/png
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/index.html
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\index.html
+Content Type: text/html
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/jupiter.js
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\jupiter.js
+Content Type: text/javascript
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/mnc.png
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\mnc.png
+Content Type: image/png
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/msmm.png
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\msmm.png
+Content Type: image/png
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/nvidia.js
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\nvidia.js
+Content Type: text/javascript
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/pcm.png
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\pcm.png
+Content Type: image/png
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/re.gif
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\re.gif
+Content Type: image/gif
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/set.png
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\set.png
+Content Type: image/png
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/tapa.css
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\tapa.css
+Content Type: text/css
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/vsc.png
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\vsc.png
+Content Type: image/png
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Win08Ay0Er08d8d77/_Fm7-alert.mp3
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Win08Ay0Er08d8d77\_Fm7-alert.mp3
+Content Type: audio/mpeg
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-77514673-1
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\gtag\js-1
+Content Type: application/javascript
+
+etsecurityalert8.z13.web.core.windows.net/Mac08Ay0Er08d8d77/Z5BR-network.png
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Mac08Ay0Er08d8d77\Z5BR-network.png
+Content Type: image/png
+
+Uri: https://inetsecurityalert8.z13.web.core.windows.net/Mac08Ay0Er08d8d77/_Fm7-alert.mp3
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\Mac08Ay0Er08d8d77\_Fm7-alert.mp3
+Content Type: audio/mpeg
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\font-awesome\4.5.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\font-awesome\4.5.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\font-awesome\4.5.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\font-awesome\4.5.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\font-awesome\4.5.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\font-awesome\4.5.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\font-awesome\4.5.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\bootstrap\4.5.2\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-77514673-1
+File Name: C:\Downloaded Web Sites\inetsecurityalert8.z13.web.core.windows.net\gtag\js
+Content Type: application/javascript
+
